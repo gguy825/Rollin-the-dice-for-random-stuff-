@@ -2,8 +2,8 @@
 ### random choice
 
 ### user rolls dice 
-### if die lands on 1-6, random stuff happens
-### if die lands on 7, random deaths happen
+### if dice lands on 1-6, random stuff happens
+### if dice lands on 7, random deaths happen
 
 ### if he dies he dies and option to play again
 ### if he lives he dies and option to play again
